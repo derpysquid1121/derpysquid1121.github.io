@@ -1,6 +1,9 @@
 img {
     width: 200px;
 }
+h2 {
+    font-size: 18px; 
+}
 
 body {
     text-align: center;
