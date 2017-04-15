@@ -1,13 +1,19 @@
 img {
     width: 200px;
 }
+h3{
+    font-size:28px;
+}
 h2 {
     font-size: 18px; 
+}
+h1 {
+    font-size:15px;
 }
 
 body {
     text-align: center;
     font-family: "Comic Sans MS";
-    background-color: #800080
+    background-color: #62B647
     
 }
